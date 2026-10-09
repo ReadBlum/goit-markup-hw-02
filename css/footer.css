@@ -11,10 +11,5 @@
 }
 
 .footer .logo {
-  color: #4d5ae5; /* для Web */
-}
-
-/* Чтобы слово Studio в футере было цвета #f4f4fd */
-.footer .logo span {
   color: #4d5ae5;
 }
