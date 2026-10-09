@@ -17,6 +17,16 @@
   letter-spacing: 0.03em;
 }
 
+.footer .logo:hover,
+.footer .logo:focus {
+  color: #4d5ae5;
+}
+
 .footer .logo .studio {
+  color: #f4f4fd;
+}
+
+.footer .logo:hover .studio,
+.footer .logo:focus .studio {
   color: #f4f4fd;
 }
