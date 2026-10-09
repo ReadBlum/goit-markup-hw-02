@@ -12,4 +12,11 @@
 
 .footer .logo {
   color: #4d5ae5;
+  font-size: 18px;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
+}
+
+.footer .logo .studio {
+  color: #f4f4fd;
 }

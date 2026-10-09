@@ -28,3 +28,9 @@
 .header address a:focus {
   color: #404bbf;
 }
+
+.logo {
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  line-height: 1.33;
+}

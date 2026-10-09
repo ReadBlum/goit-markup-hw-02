@@ -11,7 +11,7 @@
   text-align: center;
 }
 
-.hero button {
+.order {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -22,7 +22,8 @@
   cursor: pointer;
 }
 
-.hero button:hover,
-.hero button:focus {
+.order:hover,
+.order:focus {
   background-color: #404bbf;
+  color: #ffffff;
 }
