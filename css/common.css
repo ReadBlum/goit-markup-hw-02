@@ -7,14 +7,14 @@ a {
   text-decoration: none;
 }
 
-a:hover,
-a:focus {
-  color: orange;
-}
-
 button:hover,
 button:focus {
-  color: orange;
+  color: #404bbf;
+}
+
+a:hover,
+a:focus {
+  color: #404bbf;
 }
 
 .web-blue {
@@ -28,4 +28,6 @@ button:focus {
 
 body {
   font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #fff;
 }

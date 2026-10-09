@@ -1,4 +1,20 @@
-#footer {
+.footer {
   background-color: #2e2f42;
-  color: white;
+  color: #f4f4fd;
+}
+
+.footer p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+
+.footer .logo {
+  color: #4d5ae5; /* для Web */
+}
+
+/* Чтобы слово Studio в футере было цвета #f4f4fd */
+.footer .logo span {
+  color: #4d5ae5;
 }
