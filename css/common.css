@@ -7,6 +7,16 @@ a {
   text-decoration: none;
 }
 
+a:hover,
+a:focus {
+  color: orange;
+}
+
+button:hover,
+button:focus {
+  color: orange;
+}
+
 .web-blue {
   color: #4d5ae5;
 }
@@ -14,4 +24,8 @@ a {
 .logo {
   text-transform: uppercase;
   font-weight: 700;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
 }
