@@ -1,0 +1,13 @@
+#hero {
+  background-color: #2e2f42;
+  color: white;
+}
+
+#hero button {
+  background-color: #4d5ae5;
+  color: white;
+}
+
+#hero h1 {
+  text-align: center;
+}
